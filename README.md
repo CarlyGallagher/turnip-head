@@ -1,30 +1,33 @@
-#turnip-head
+# turnip-head
 
 ## Description
-​As a USER I would like a README.md generator 
-So That I can quickly make a professional README.md through the command line using NODE.JS
+​As a USER I would like a more accesible web page
+So That I score higher on accesbility charts
 
 ## Tasks
 ​
-- Generator must use the command line and present me with questions that are necessary for a professional README.
-- when hitting enter aftering answering a question it will populate the next question for my README
-- When finished with the prompts a message will send telling me I was succesful in creating the README.
-- When finishing the prompts a new file is created to hold the information.
+- WHEN I view the source code
+- THEN I find semantic HTML elements
+- WHEN I view the structure of the HTML elements
+- THEN I find that the elements follow a logical structure independent of styling and positioning
+- WHEN I view the icon and image elements
+- THEN I find accessible alt attributes
+- WHEN I view the heading attributes
+- THEN they fall in sequential order
+- WHEN I view the title element
+- THEN I find a concise, descriptive title
+
 
 ​
 ## Usage
 
-​![Alt text](utils/assets/terminalPrompts.png)
+​![Alt text]
 
 ## Links
 - Deployed Webpage: N/A
 - GitHub Repo Page: https://github.com/CarlyGallagher/blue-pickled-ginger.git
 - Castify Video Demo: https://drive.google.com/file/d/1CRk_2KKUcTv_PiUDYbIiSirFC04UJP5E/view
 ​
-## Credits
-​
-- https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/
-- https://opensource.org/
 ​
 ## License
 ​
