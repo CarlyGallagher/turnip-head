@@ -1,8 +1,8 @@
 # turnip-head
 
 ## Description
-​As a USER I would like a more accesible web page
-So That I score higher on accesbility charts
+- ​As a USER I would like a more accesible web page
+- So That I score higher on accesbility charts
 
 ## Tasks
 ​
@@ -21,7 +21,8 @@ So That I score higher on accesbility charts
 ​
 ## Usage
 
-​![Alt text]
+​![Alt text](./assets/images/screenshot1.png)
+​![Alt text](./assets/images/screenshot2.png)
 
 ## Links
 - Deployed Webpage: N/A
